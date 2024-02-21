@@ -23,7 +23,7 @@
     <tr>
     <td><strong>Vaccum Cleaner agent</strong></td>
     <td><strong>Cleaning Dirt</strong></td>
-     <td><strong>Rooms, floort</strong></td>
+     <td><strong>Rooms, floor</strong></td>
     <td><strong>Dirt,Cleaning</strong></td>
     <td><strong>Location,Sensing Dirt</strong></td>
   </tr>
